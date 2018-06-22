@@ -11,4 +11,9 @@
 
 * Difference of fault and failures
   * Failure: Fail the entire system and cannot serve user's request
-  * Fault: certain components are deviated from its specs
+  * Fault: certain components are deviated from its specs. Faults from many components will cause the failure of the whole system.
+  
+## Scalability
+
+* Describe the load
+* Describe the performance
