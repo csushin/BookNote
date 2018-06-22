@@ -1,11 +1,11 @@
 # Chapter 1
 
 * Types of data system functionalities:
-  * Save the data and will use later
-  * Search/query
-  * Cache
-  * Stream processing
-  * Batch processing
+  * Data base: to store the data and find it later
+  * Search/query: to allow users find data through various ways
+  * Cache: to remember the result of an expensive operation
+  * Stream processing: to handle user messages asynchronously
+  * Batch processing: to periodically crunch a large amount of acumulated darta.
 
 ## Reliability
 
