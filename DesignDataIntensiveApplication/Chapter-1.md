@@ -22,4 +22,7 @@
     * Response time: the entire time that the clients can see the response of their request including the network roundtrip, etc. So it often doesn't make sense to analyze a specific request with large response time. We need to focus on the distribution of the response time.
       * Implementing percentile:
         * Becase we focus on the distribution of the response time, it doesn't make sense to do any level of aggregation or average. Instead, we can keep a list of response time within a time window, sort that list and get the percentile.
-  * 
+        
+## Maintainability
+
+## Evolvability
