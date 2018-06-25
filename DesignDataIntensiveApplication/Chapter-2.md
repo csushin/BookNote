@@ -10,3 +10,5 @@
 * Schema-on-read
   * Document model does require enforce database-level requirement on the schema and hence it has more flexibility.
   * But usually we have implicit assumption on the schema when we read the data on the client side, which means the document model is actuall **schema-on-read**.
+* Schema-on-write
+  * Relational data model. Explictly requrie the schema and ensure that the written data follows the schema.
