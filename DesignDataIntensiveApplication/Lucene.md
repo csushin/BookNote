@@ -35,3 +35,5 @@ More than the occurences of the terms, it can also be the terms' offset, positio
     -> [1,1,2,1], [3,12,5,3],6 which aggregates the above arrays
     ```
 
+# Others to read:
+* [Lucene: The Good Parts](https://blog.parse.ly/post/1691/lucene/)
